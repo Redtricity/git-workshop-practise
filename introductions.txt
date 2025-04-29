@@ -10,8 +10,8 @@ Make sure you’re on your own branch and be kind — no deleting anyone else's 
 
 ---
 
-🧑 Name: Lara  
+🧑 Name: Test  
 🎓 Course: BSc (Hons) Game Development  
-💬 Fun fact: I own a teddy bear named Trudi and she’s been with me since I was 3 🧸
+💬 Fun fact: I love video games
 
 ---
